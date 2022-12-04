@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tituloP {
+    border: dashed;
+    border-color: darkgoldenrod;
+    border-radius: 5px;
+    background-color: darkgreen;
+    width: 338px;
+    color: chartreuse;
+}
+
+img {
+    width: 600px;
+    height: 300px;
+}
+
+.bloco {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: double;
+    width: 700px;
+    height: 500px;
+    color: aliceblue;
+    background-color: black;
+    
+}

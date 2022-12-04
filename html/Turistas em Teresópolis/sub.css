@@ -1,0 +1,13 @@
+.informe {
+    border: double;
+    display: flex;
+    flex-direction: row;
+    background-color: forestgreen;
+    color: rgb(10, 36, 77);
+    
+}
+
+.titulo {
+    text-decoration-color: black;
+    color: yellow;
+}
